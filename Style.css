@@ -2,3 +2,20 @@ header{
     display: flex;
     gap: 50px;
 }
+
+#FotoPerfil{
+    height: 250px;
+    width: 250px;
+}
+
+.meu-cabecalho{
+    background-color: aliceblue;
+    width: 100%;
+}
+
+
+
+
+
+
+
