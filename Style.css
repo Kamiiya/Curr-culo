@@ -26,24 +26,18 @@ p{
     width: 250px;
 }
 
-.linkBotao{
-    width: 30px;
-    height: 30px;
-    margin: 30px;
-    display: flex;
+#laulao{
+    margin: 80px;
 }
 
-.botao{
-    display: flex;
-    margin-top: 70px;
-   
+.pro{
+    color: #4F4F4F;
+
 }
-
-
-            
-a {
-    color:#1b53a8;
-    
+.pra{
+    margin: 10px;
+    box-shadow: 5px 5px  grey;
+    border-radius: 10px;
+    background-color: #4d5157
+    border: 2px solid black;
 }
-
-
